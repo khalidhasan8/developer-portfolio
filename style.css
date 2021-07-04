@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .po{
     width: 50%;
@@ -29,4 +30,17 @@ section{
 .top-banner{
           background-image: url(images/top-banner.png);
           background-repeat: no-repeat;
+}
+.second{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.po2{
+    width: 50%;
+    margin-right: 10%;
+}
+.po2 img{
+    width: 80%;
+    margin-left: 10% ;
 }
