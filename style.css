@@ -80,7 +80,10 @@ footer p{
     padding: 5px;
     
 }
-span{
+.fot{
     background-color: black;
     padding: 5px;
+}
+.orange{
+    color: orange;
 }
